@@ -25,7 +25,7 @@ Attempt 4: Initially failed but eventually succeeded in a revised attempt, retri
 ## Personal Achievements
 Emails Sent: 37
 Students Captured: 3
-Success Rate: 81%
+Success Rate: 8,1%
 ## General Findings
 The overall success rate across different attempts varied, highlighting the importance of the scenario's believability and the target's awareness level.
 A significant portion of the targeted individuals did not fall for the phishing attempts, indicating a higher level of vigilance or awareness.
